@@ -1,0 +1,14 @@
+* {
+    margin: 0;   
+}
+
+header h1 {
+    padding: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb(54, 61, 70);
+}
+
+body h2 {
+    padding: 20px;
+}
